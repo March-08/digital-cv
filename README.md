@@ -1,5 +1,6 @@
 # Marcello Politi
-Software engineer and Machine Learning enthusiast.
+Software engineer and Machine Learning enthusiast.  
+  
 [Linkedin](https://www.linkedin.com/in/marcello-politi-903287171/)
 
 ### Markdown
