@@ -2,18 +2,18 @@
 
 _Software engineer and passionate about Machine Learning, based in Rome, Italy_ <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:mpoliti08@gmail.com) / [LinkedIn](https://www.linkedin.com/in/marcello-politi-903287171/) / [GitHub](https://github.com/March-08)
 
 ## 👩🏼‍💻 Technical Experience
 
-**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
+**Software Engineer YGT** @ [ESA](https://bryter.io/) _(Sep 2021 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - Extending a company-wide design system
   - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement).
 <br><br>
 
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
+**Deep Learning Research Intern** @ [INRIA](https://foundation.graphql.org/) _(March 2021 - Aug 2021)_ <br>
 [Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
   - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
   - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
