@@ -7,6 +7,15 @@ _Software engineer and passionate about Machine Learning, based in Rome, Italy_ 
 ## 👩🏼‍💻 Technical Experience
 
 **Software Engineer YGT** @ [ESA](https://bryter.io/) _(Sep 2021 - Present)_ <br>
+-	Detailed analysis of the data access flow for [Earth Online](https://earth.esa.int/eogateway) users
+-	Content synchronisation analysis for large system of systems
+-	Sustainable systems and earth friendly hosting, operation and maintenance in IT
+-	Correlation of user numbers from different systems 
+-	Analysis on the equivalent products for data analysis and storage to be used  
+-	Optimization of [EO-CAT](https://eocat.esa.int/sec/#data-services-area) data visualization 
+-	Solutions to exploit knowledge graphs to esa web-pages
+-	Development of AI based web-page using state of the art Deep Learning models 
+
 No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - Extending a company-wide design system
