@@ -7,6 +7,7 @@ _Software engineer and passionate about Machine Learning, based in Rome, Italy_ 
 ## 👩🏼‍💻 Technical Experience
 
 **Software Engineer YGT** @ [ESA](https://bryter.io/) _(Sep 2021 - Present)_ <br>
+Main duties:
 -	Detailed analysis of the data access flow for [Earth Online](https://earth.esa.int/eogateway) users
 -	Content synchronisation analysis for large system of systems
 -	Sustainable systems and earth friendly hosting, operation and maintenance in IT
@@ -16,80 +17,68 @@ _Software engineer and passionate about Machine Learning, based in Rome, Italy_ 
 -	Solutions to exploit knowledge graphs to esa web-pages
 -	Development of AI based web-page using state of the art Deep Learning models 
 
-No-code platform that enables professionals to build interactive applications.
-  - Implementing features that improve the UI and accessibility of the integrations platform
-  - Extending a company-wide design system
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Web Components (LitElement).
 <br><br>
 
-**Deep Learning Research Intern** @ [INRIA](https://foundation.graphql.org/) _(March 2021 - Aug 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
+**Deep Learning Research Intern** @ [INRIA](https://www.inria.fr/fr) _(March 2021 - Aug 2021)_ <br>
+The project has been developed during the internship under the supervision of [Emanuele Natale](https://www-sop.inria.fr/members/Emanuele.Natale/) and [Andrea Clementi](http://www.mat.uniroma2.it/~clementi/).
+The internship aimed at tackling the problem of compressing artificial neural networks via iterative pruning approaches. I reviewed state-of-the-art approaches, devised variants of known methods and designed novel approaches, and extensively validated those methods against known ones.
+Iterative pruning methods have been a classical approach for neural network compression since several decades. While earlier methods relied on heuristic arguments, such as assumptions on the Taylor approximation of the loss function, recent approaches have attempted to provide rigorous guarantees by leveraging algorithmic techniques. The project focused on the assessment of the merits and shortcomings of such recent contributions.
+The proposed implementation language for the project is the [Julia](https://julialang.org/) language.
+  - **_Technologies used:_** Julia, Flux.
 <br><br>
 
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
-  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
-  - Ownership of Meeshkan's documentation and technical blog
-  - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
+**Data Analyst Intern** @ [ESA](https://bryter.io/) _(Sep 2020 - Feb 2021)_ <br>
+Main duties:
+- Analyse website data on traffic patterns, behaviour, navigation and user flows
+- Answer key questions through statistical analyses, reporting and dashboards using analytics toolset
+- Share data views to enable responsible staff to optimize decision making
+- Analyse internet trends to identify future technology needs and internet patterns
+- Identify methodologies and technologies for data and content linking
+- Advise on Search Engine Optimisation and best practice using the Search Engine Console tool
+- Assist in the review of the ESA Earth Observation Web Development Guidelines
     <br><br>
 
-**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
-Professional chauffeur service available in over 300 cities worldwide.
-  - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
-  - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
-  - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
+**Hackathon 2019 - Organizer** @ [Tor Vergata](http://web.uniroma2.it/) _(Feb 2019 - May 2019)_ <br>
+- Website co-creator
+- Logistic
+- Development of competition themes
+  <br><br>
+  
+**Professional Course Java EE** @ [Eustema S.p.A](https://www.eustema.it/en/home/) _(Feb 2019 - Mar 2019)_ <br>
+- Java SE
+- Java for Web with Servlet and Spring
+- Database SQL and NoSQL
+- Microservices
   <br><br>
 
-**Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
-API-first infrastructure to create, manage and distribute content.
-  - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
-  - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
-  - Assistance with information architecture and UX writing for the web app
-  - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.
-  - **_Selected writing:_**
-    - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
-    - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
-    - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
-    <br><br>
     
-## 🗞 Journalism Experience
+## 🗞 Other Expreriences
 
-_This section only accounts for work done post-career change._
 <br><br>
 
-**Contributing Writer** @ [Future of Sex](https://futureofsex.net/author/carolyn/) _(Dec 2020 - Present)_ <br>
-Online publication that provides insights into the future of human sex and sexuality.
-  - Writing regular features focused on sexual health and identity
-  - Reporting on events that are relevant to the sex tech community
+**Contributing Writer** @ [Toward Data Science](https://towardsdatascience.com/) _(Present)_ <br>
+Online publications that provides insights into machine learning and deep learning solutions.
   - **_Selected articles:_**
-    - [Does Having an IUD Make You a Biohacker or a Cyborg?](https://futureofsex.net/augmentation/does-having-an-iud-make-you-a-biohacker-or-a-cyborg/)
-    - [Exploring Queerness By Switching Up My Vibrators](https://futureofsex.net/sex-tech/exploring-queerness-by-switching-up-my-vibrators/)
-    - [Future of Fingering: Lessons Learned from the Award-Winning Tentilex Project](https://futureofsex.net/sex-tech/future-of-fingering-lessons-learned-from-the-award-winning-tentilex-project/)
+    - [Linear Regression and Gradient Descent Using Only Numpy](https://towardsdatascience.com/linear-regression-and-gradient-descent-using-only-numpy-53104a834f75)
+    - [Transfer Learning for Robust Image Classification](https://towardsdatascience.com/transfer-learning-data-augmentation-for-robust-image-classification-643ca88b3175)
+    - [Iterative Pruning Methods for Artificial Neural Networks in Julia](https://towardsdatascience.com/iterative-pruning-methods-for-artificial-neural-networks-in-julia-c605f547a485)
 <br><br>
 
-**Freelance Writing** _(Mar 2020 - Present)_ <br>
-Recent articles in [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/), [Sex for Every Body](https://sexforeverybody.com/author/carolyn/), [FAWCO's Inspiring Women Magazine](https://workwithcarolyn.com/words/fawco-feature), and more.
+**Dock3 - The Startup Lab** @ [Dock3](https://www.dock3.it/en/home_en/) _(Mar 2021 - Jun 2021)_ <br>
+Dock3Sprint is the incubation program of RomaTre University, where the teams go from idea to market.
+Each team go through 15 workshops to explore the main themes for the development of a startup: fundraising, growth hacking, lean metrics, lean management, legals, hardware production and much more.
+The co-working space is continually visited by mentors, industry experts, entrepreneurs and startup founder, who can monitor and support the development of the startups.- Website co-creator
+  <br><br>
+  
+**Hackathon 2019 - Organizer** @ [Tor Vergata](http://web.uniroma2.it/) _(Feb 2019 - May 2019)_ <br>
+- Website co-creator
+- Logistic
+- Development of competition themes
+  <br><br>
+  
+**Kids Entertainer** @ [Isttuto S.Maria Mazzarello](http://www.istitutomazzarello.org/) _(Summer 2017)_ <br>
 <br><br>
 
-**Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>
-Magazine for socially conscious young people who want to create their own media.
-  - Wrote over 20 articles for print and web focused on technology and activism
-  - Edited and curated online-exclusive content
-  - **_Selected articles:_**
-    - [The War on Sex](https://workwithcarolyn.com/words/war-on-sex)
-    - [What to Do if You Get Doxed](https://workwithcarolyn.com/words/what-to-do-if-you-get-doxed)
-    - [How Marijuana Can Improve Your Health](https://workwithcarolyn.com/words/how-marijuana-can-improve-your-health)
-    <br><br>
 
 ## 📌 On The Side
 
