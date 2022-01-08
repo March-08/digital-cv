@@ -90,7 +90,7 @@ Health Cooperation application that allows user identification by eliminating pa
 
 ## 💬 Languages
 
-**English**: Italian <br>
+**Italian**: Native <br>
 **English**: C1 <br>
 **Hungarian**: B2
 <br><br>
