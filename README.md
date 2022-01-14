@@ -80,7 +80,7 @@ The co-working space is continually visited by mentors, industry experts, entrep
 ## 🏆 Accomplishments
 
 **Best System Award** @ [EVALITA 2020](https://www.evalita.it/evalita-2020/best-system-award/)  <br>
-Development of a stance detector system for Italiann tweets exploiting using BERT with a transfer learning approach. You can read the paper [here](http://ceur-ws.org/Vol-2765/paper99.pdf).
+Development of a stance detector system for Italian tweets exploiting using BERT with a transfer learning approach. You can read the paper [here](http://ceur-ws.org/Vol-2765/paper99.pdf).
 
 **Hackathon winner** @ [ConfCooperative Hackathon](https://www.confcooperative.it/) _(Nov 2019)_ <br>
 The github [repo](https://github.com/March-08/ConfCooperative---Cooperazione-Salute-Hackathon-2019) of the project.
