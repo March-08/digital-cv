@@ -103,13 +103,10 @@ Health Cooperation application that allows user identification by eliminating pa
 Thesis : "An Assessment of Iterative Pruning Methods for Artificial Neural Networks in Julia"
 
 Advisor: Prof. [Andrea Clementi](http://www.mat.uniroma2.it/~clementi/) 
- 
 Co-Advisor: Prof. [Emanuele Natale](https://www-sop.inria.fr/members/Emanuele.Natale/)
 
 **Beachelor in Computer Science** , University of Tor Vergata, Rome Italy<br>
 Thesis: "Dynamic of Bitcoin Network: empirical analysis of a full-node's neighborhood"
-
+ 
 Advisor: Prof. [Francesco Pasquale](http://www.mat.uniroma2.it/~pasquale/)
-
-Available at:
-https://github.com/March-08/Thesis
+Available [here](https://github.com/March-08/Thesis)
