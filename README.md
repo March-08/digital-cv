@@ -99,7 +99,7 @@ Health Cooperation application that allows user identification by eliminating pa
 ## 👩🏼‍🎓 Education
 
 **Deep Learning Advanced Master**, Deep Learning Italia<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+[Deep Learning Italia Academy - Experis Academy](https://www.experisacademy.it/it/master-it/master-deep-learning) - Rome, Italy _(Oct 2021 - June 2022)_ <br>
 
 **Master in Computer Science**, University of Tor Vergata, Rome Italy <br>
 Thesis : "An Assessment of Iterative Pruning Methods for Artificial Neural Networks in Julia"
