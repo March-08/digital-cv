@@ -60,6 +60,7 @@ Online publications that provides insights into machine learning and deep learni
     - [Linear Regression and Gradient Descent Using Only Numpy](https://towardsdatascience.com/linear-regression-and-gradient-descent-using-only-numpy-53104a834f75)
     - [Transfer Learning for Robust Image Classification](https://towardsdatascience.com/transfer-learning-data-augmentation-for-robust-image-classification-643ca88b3175)
     - [Iterative Pruning Methods for Artificial Neural Networks in Julia](https://towardsdatascience.com/iterative-pruning-methods-for-artificial-neural-networks-in-julia-c605f547a485)
+    - [Remaking the “Silicon Valley” SeeFood App](https://towardsdatascience.com/the-remaking-of-the-silicon-valleys-series-seefood-app-d309068cae6d)
 <br><br>
 
 **Dock3 - The Startup Lab** @ [Dock3](https://www.dock3.it/en/home_en/) _(Mar 2021 - Jun 2021)_ <br>
