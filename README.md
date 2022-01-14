@@ -53,7 +53,6 @@ Main duties:
     
 ## 🗞 Other Expreriences
 <br><br>
-
 **Contributing Writer** @ [Toward Data Science](https://towardsdatascience.com/) _(Present)_ <br>
 Online publications that provides insights into machine learning and deep learning solutions.
   - **_Selected articles:_**
