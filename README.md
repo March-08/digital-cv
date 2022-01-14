@@ -77,7 +77,6 @@ The co-working space is continually visited by mentors, industry experts, entrep
 **Kids Entertainer** @ [Isttuto S.Maria Mazzarello](http://www.istitutomazzarello.org/) _(Summer 2017)_ <br>
 <br><br>
 
-  
 ## 🏆 Accomplishments
 
 **Best System Award** @ [EVALITA 2020](https://www.evalita.it/evalita-2020/best-system-award/)  <br>
