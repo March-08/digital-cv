@@ -96,8 +96,11 @@ Health Cooperation application that allows user identification by eliminating pa
 
 ## 👩🏼‍🎓 Education
 
+**Pi School - School of AI**, School of Artificial Intelligence<br>
+[Pi School](https://picampus-school.com/programme/school-of-ai/) - Rome, Italy _(Present)_ <br>
+
 **Deep Learning Advanced Master**, Deep Learning Italia<br>
-[Deep Learning Italia Academy - Experis Academy](https://www.experisacademy.it/it/master-it/master-deep-learning) - Rome, Italy _(Oct 2021 - June 2022)_ <br>
+[Deep Learning Italia Academy - Experis Academy](https://www.experisacademy.it/it/master-it/master-deep-learning) - Rome, Italy _(Present)_ <br>
 
 **Master in Computer Science**, University of Tor Vergata, Rome Italy <br>
 Thesis : "An Assessment of Iterative Pruning Methods for Artificial Neural Networks in Julia"
