@@ -97,7 +97,7 @@ Health Cooperation application that allows user identification by eliminating pa
 ## 👩🏼‍🎓 Education
 
 **Pi School - School of AI**, School of Artificial Intelligence<br>
-[Pi School](https://picampus-school.com/programme/school-of-ai/) - Rome, Italy _(Present)_ <br>
+[Pi School](https://picampus-school.com/programme/school-of-ai/) - Rome, Italy _(May 2022)_ <br>
 
 **Deep Learning Advanced Master**, Deep Learning Italia<br>
 [Deep Learning Italia Academy - Experis Academy](https://www.experisacademy.it/it/master-it/master-deep-learning) - Rome, Italy _(Present)_ <br>
