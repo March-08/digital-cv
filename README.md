@@ -62,6 +62,9 @@ Online publications that provides insights into machine learning and deep learni
     - [Remaking the “Silicon Valley” SeeFood App](https://towardsdatascience.com/the-remaking-of-the-silicon-valleys-series-seefood-app-d309068cae6d)
 <br><br>
 
+**Member** @ [Space Generation Advisory Council](https://spacegeneration.org/) _(July 2022 - Present)_ <br>
+The Space Generation Advisory Council is a global non-governmental, non-profit (US 501(c)3) organisation and network which aims to represent university students and young space professionals to the United Nations, space agencies, industry, and academia.
+
 **Dock3 - The Startup Lab** @ [Dock3](https://www.dock3.it/en/home_en/) _(Mar 2021 - Jun 2021)_ <br>
 Dock3Sprint is the incubation program of RomaTre University, where the teams go from idea to market.
 Each team go through 15 workshops to explore the main themes for the development of a startup: fundraising, growth hacking, lean metrics, lean management, legals, hardware production and much more.
