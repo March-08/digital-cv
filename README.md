@@ -8,7 +8,7 @@ _Software engineer and passionate about Machine Learning, based in Rome, Italy_ 
 
 **Machine Learning Specialist** @ [Eyedea Recognition](https://www.eyedea.cz/) _(Nov 2022 - Present)_ <br>
 Main duties:
--	design,development and implementation of Machine Learning algorithms
+-	Design,development and implementation of Machine Learning algorithms
 -	Data Management
 -	Software application development
 <br><br>
