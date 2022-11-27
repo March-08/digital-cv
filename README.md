@@ -6,7 +6,14 @@ _Software engineer and passionate about Machine Learning, based in Rome, Italy_ 
 
 ## 👩🏼‍💻 Technical Experience
 
-**Software Engineer YGT** @ [ESA](https://bryter.io/) _(Sep 2021 - Present)_ <br>
+**Machine Learning Specialist** @ [Eyedea Recognition](https://www.eyedea.cz/) _(Nov 2022 - Present)_ <br>
+Main duties:
+-	design,development and implementation of Machine Learning algorithms
+-	Data Management
+-	Software application development
+<br><br>
+
+**Software Engineer YGT** @ [ESA](https://www.esa.int/) _(Sep 2021 - Oct 2022)_ <br>
 Main duties:
 -	Detailed analysis of the data access flow for [Earth Online](https://earth.esa.int/eogateway) users
 -	Content synchronisation analysis for large system of systems
