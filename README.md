@@ -1,6 +1,6 @@
 # Marcello Politi
 
-_Software engineer and passionate about Machine Learning, based in Rome, Italy_ <br>
+_Machine Learning Engineer and passionate about Space, based in Rome, Italy_ <br>
 
 [Email](mailto:mpoliti08@gmail.com) / [LinkedIn](https://www.linkedin.com/in/marcello-politi-903287171/) / [GitHub](https://github.com/March-08)
 
