@@ -6,7 +6,14 @@ _Machine Learning Engineer and passionate about Space, based in Rome, Italy_ <br
 
 ## 👩🏼‍💻 Technical Experience
 
-**Machine Learning Specialist** @ [Eyedea Recognition](https://www.eyedea.cz/) _(Nov 2022 - Present)_ <br>
+**AI Coach** @ [PiSchool](https://picampus-school.com/) _(March 2023 - Present)_ <br>
+Main duties:
+-	Fast prototyping AI MVPs
+-	Managment of temas for AI development in Agile, Scrum methodology
+-	Business development - solve real world business problems with AI
+<br><br>
+
+**Machine Learning Specialist** @ [Eyedea Recognition](https://www.eyedea.cz/) _(Nov 2022 - March2023)_ <br>
 Main duties:
 -	Design,development and implementation of Machine Learning algorithms
 -	Data Management
