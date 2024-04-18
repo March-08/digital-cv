@@ -6,11 +6,9 @@ _Machine Learning Engineer and passionate about Space, based in Rome, Italy_ <br
 
 ## 👩🏼‍💻 Technical Experience
 
-**AI Coach** @ [PiSchool](https://picampus-school.com/) _(March 2023 - Present)_ <br>
+**Machine Learning Scientist** @ [PiSchool](https://picampus-school.com/) _(March 2023 - Present)_ <br>
 Main duties:
--	Fast prototyping AI MVPs
--	Managment of temas for AI development in Agile, Scrum methodology
--	Business development - solve real world business problems with AI
+I lead international teams of engineers in solving real business problems, driving projects based on state-of-the-art research in Machine Learning. I actively contribute to hands-on development, working closely with the team. I ensure successful outcomes, through my expertise in fast prototyping, knowledge of Scrum (Agile) principles, and staying updated on AI trends. Moreover, I played a pivotal role in securing and advancing major European tenders.
 <br><br>
 
 **Machine Learning Specialist** @ [Eyedea Recognition](https://www.eyedea.cz/) _(Nov 2022 - March2023)_ <br>
