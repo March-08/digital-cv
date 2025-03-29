@@ -7,16 +7,15 @@ _Machine Learning Engineer and passionate about Space, based in Rome, Italy_ <br
 ## 👩🏼‍💻 Technical Experience
 
 **Machine Learning Scientist** @ [PiSchool](https://picampus-school.com/) _(March 2023 - Present)_ <br>
-Main duties:
-I lead international teams of engineers in solving real business problems, driving projects based on state-of-the-art research in Machine Learning. I actively contribute to hands-on development, working closely with the team. I ensure successful outcomes, through my expertise in fast prototyping, knowledge of Scrum (Agile) principles, and staying updated on AI trends. Moreover, I played a pivotal role in securing and advancing major European tenders.
+Pi School is a private AI lab. It has two main activities: (1) School of AI, where I contributed by leading
+several MVP developments for external projects while training ML engineers worldwide. (2) Applied
+large-scale AI projects. I am the tech leader of an ESA-funded project (€ 400K) for the development of a
+domain-adapted LLM in the satellite communication domain. Other projects in which I’ve contributed as an
+AI researcher are: ESA-CIN (€ 500K), ESA-Eve (€ 1M), EU-Meetween (€ 7M), EU- Edith (€ 8M).
+Recently I had the opportunity to teach at the Enrico Fermi Research Centre (CREF) LLM a course on NLP
+and LLMs.
 <br><br>
 
-**Machine Learning Specialist** @ [Eyedea Recognition](https://www.eyedea.cz/) _(Nov 2022 - March2023)_ <br>
-Main duties:
--	Design,development and implementation of Machine Learning algorithms
--	Data Management
--	Software application development
-<br><br>
 
 **Software Engineer YGT** @ [ESA](https://www.esa.int/) _(Sep 2021 - Oct 2022)_ <br>
 Main duties:
@@ -47,24 +46,20 @@ Main duties:
 - Identify methodologies and technologies for data and content linking
 - Advise on Search Engine Optimisation and best practice using the Search Engine Console tool
 - Assist in the review of the ESA Earth Observation Web Development Guidelines
-    <br><br>
+ 
 
-**Hackathon 2019 - Organizer** @ [Tor Vergata](http://web.uniroma2.it/) _(Feb 2019 - May 2019)_ <br>
-- Website co-creator
-- Logistic
-- Development of competition themes
-  <br><br>
-  
-**Professional Course Java EE** @ [Eustema S.p.A](https://www.eustema.it/en/home/) _(Feb 2019 - Mar 2019)_ <br>
-- Java SE
-- Java for Web with Servlet and Spring
-- Database SQL and NoSQL
-- Microservices
-  <br><br>
-
-    
 ## 🗞 Other Expreriences
+
+**LLM Engineer - Founder** @ [BrianknowsAI](https://www.brianknows.org/) _(Present)_ <br>
+- Brian App offers a user interface for performing transactions in a non-custodial way, researching web3 info,
+and deploying smart contracts by prompting. EthPrague2023: Brian was awarded five bounties from Aave,
+Gnosis, GraphProtocol and Taiko. AugmentHack: Brian was awarded the first prize from HuggingFace,
+Augment Hack and Bacalhau. EthBarcelona: As responsible for the AI development in Brian, I was invited as a
+speaker at the blockchain conference to talk about the AI and Web3 intersection.
+- Stats: Pre-seed round of 150K for 5mln evaluation from Gagra Venture. More than 1M collected prompts, 2k
+active users per day and > $ 700K of volume transacted using the Brian APIs.
 <br><br>
+
 **Contributing Writer** @ [Toward Data Science](https://towardsdatascience.com/) _(Present)_ <br>
 Online publications that provides insights into machine learning and deep learning solutions.
   - **_Selected articles:_**
@@ -89,9 +84,12 @@ The co-working space is continually visited by mentors, industry experts, entrep
 - Development of competition themes
   <br><br>
   
-**Kids Entertainer** @ [Isttuto S.Maria Mazzarello](http://www.istitutomazzarello.org/) _(Summer 2017)_ <br>
-<br><br>
-
+**Hackathon 2019 - Organizer** @ [Tor Vergata](http://web.uniroma2.it/) _(Feb 2019 - May 2019)_ <br>
+- Website co-creator
+- Logistic
+- Development of competition themes
+  <br><br>
+  
 ## 🏆 Accomplishments
 
 **Best System Award** @ [EVALITA 2020](https://www.evalita.it/evalita-2020/best-system-award/)  <br>
