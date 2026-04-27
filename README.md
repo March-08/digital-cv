@@ -1,15 +1,16 @@
 # Marcello Politi
 
-_Deep Learning Scientist specialised in Large Language Models applied to Earth Observation and satellite communications, based in Rome, Italy_ <br>
+_Research Scientist at the Ethereum Foundation, based in Rome, Italy_ <br>
 
-Currently serving as Technical Officer for ESA's SatcomLLM project and contributing to the development of EVE, two flagship initiatives focused on domain-specific large language models.
+Working on multi-agent systems, AI safety, and the new agent economy — building the primitives for decentralised AI and the agentic web on Ethereum.
 
 [Email](mailto:mpoliti08@gmail.com) / [LinkedIn](https://www.linkedin.com/in/marcello-politi/) / [Website](https://marcello-politi.super.site) / [GitHub](https://github.com/March-08)
 
 ## 👩🏼‍💻 Technical Experience
 
-**Research Engineer** @ [Ethereum Foundation](https://ethereum.foundation/) _(Oct 2025 - Present)_ <br>
-- Contributing to core primitives for decentralised AI on Ethereum, including the ERC-8004 agent standard, multi-agent systems, and verifiable inference.
+**Research Scientist** @ [Ethereum Foundation](https://ethereum.foundation/) _(Oct 2025 - Present)_ <br>
+- Working on multi-agent systems, AI safety, and the new agent economy.
+- Contributing to core primitives for decentralised AI on Ethereum, including the ERC-8004 agent standard and verifiable inference.
 - Researching LLM jailbreaking in strategic economics games, with applications to AI security in the agentic economy.
 <br><br>
 
