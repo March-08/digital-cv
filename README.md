@@ -1,130 +1,114 @@
 # Marcello Politi
 
-_Machine Learning Engineer and passionate about Space, based in Rome, Italy_ <br>
+_Deep Learning Scientist specialised in Large Language Models applied to Earth Observation and satellite communications, based in Rome, Italy_ <br>
 
-[Email](mailto:mpoliti08@gmail.com) / [LinkedIn](https://www.linkedin.com/in/marcello-politi-903287171/) / [GitHub](https://github.com/March-08)
+Currently serving as Technical Officer for ESA's SatcomLLM project and contributing to the development of EVE, two flagship initiatives focused on domain-specific large language models.
+
+[Email](mailto:mpoliti08@gmail.com) / [LinkedIn](https://www.linkedin.com/in/marcello-politi/) / [Website](https://marcello-politi.super.site) / [GitHub](https://github.com/March-08)
 
 ## 👩🏼‍💻 Technical Experience
 
-**Machine Learning Scientist** @ [PiSchool](https://picampus-school.com/) _(March 2023 - Present)_ <br>
-Pi School is a private AI lab. It has two main activities: (1) School of AI, where I contributed by leading
-several MVP developments for external projects while training ML engineers worldwide. (2) Applied
-large-scale AI projects. I am the tech leader of an ESA-funded project (€ 400K) for the development of a
-domain-adapted LLM in the satellite communication domain. Other projects in which I’ve contributed as an
-AI researcher are: ESA-CIN (€ 500K), ESA-Eve (€ 1M), EU-Meetween (€ 7M), EU- Edith (€ 8M).
-Recently I had the opportunity to teach at the Enrico Fermi Research Centre (CREF) LLM a course on NLP
-and LLMs.
+**Research Engineer** @ [Ethereum Foundation](https://ethereum.foundation/) _(Oct 2025 - Present)_ <br>
+- Contributing to core primitives for decentralised AI on Ethereum, including the ERC-8004 agent standard, multi-agent systems, and verifiable inference.
+- Researching LLM jailbreaking in strategic economics games, with applications to AI security in the agentic economy.
 <br><br>
 
-
-**Software Engineer YGT** @ [ESA](https://www.esa.int/) _(Sep 2021 - Oct 2022)_ <br>
-Main duties:
--	Detailed analysis of the data access flow for [Earth Online](https://earth.esa.int/eogateway) users
--	Content synchronisation analysis for large system of systems
--	Sustainable systems and earth friendly hosting, operation and maintenance in IT
--	Correlation of user numbers from different systems 
--	Analysis on the equivalent products for data analysis and storage to be used  
--	Optimization of [EO-CAT](https://eocat.esa.int/sec/#data-services-area) data visualization 
--	Solutions to exploit knowledge graphs to esa web-pages
--	Development of AI based web-page using state of the art Deep Learning models 
+**Deep Learning Engineer** @ [Pi School](https://picampus-school.com/) _(Jan 2023 - Oct 2025)_ <br>
+- Project lead for ESA-SatcomLLM (€400K, 9 months), directing technical development and managing a team to build an open-source LLM for Satcom ARTES.
+- LLM Engineer for ESA-Eve, leading fine-tuning and RAG implementation in collaboration with [Mistral AI](https://mistral.ai/) and [ESA Φ-lab](https://philab.esa.int/); presenter at ESA-NASA AI FM Workshop and LPS 2025 session co-organiser.
+- Contributor to multiple successful grant proposals totalling over €46M.
 <br><br>
 
-**Deep Learning Research Intern** @ [INRIA](https://www.inria.fr/fr) _(March 2021 - Aug 2021)_ <br>
-The project has been developed during the internship under the supervision of [Emanuele Natale](https://www-sop.inria.fr/members/Emanuele.Natale/) and [Andrea Clementi](http://www.mat.uniroma2.it/~clementi/).
-The internship aimed at tackling the problem of compressing artificial neural networks via iterative pruning approaches. I reviewed state-of-the-art approaches, devised variants of known methods and designed novel approaches, and extensively validated those methods against known ones.
-Iterative pruning methods have been a classical approach for neural network compression since several decades. While earlier methods relied on heuristic arguments, such as assumptions on the Taylor approximation of the loss function, recent approaches have attempted to provide rigorous guarantees by leveraging algorithmic techniques. The project focused on the assessment of the merits and shortcomings of such recent contributions.
-The proposed implementation language for the project is the [Julia](https://julialang.org/) language.
-  - **_Technologies used:_** Julia, Flux.
+**Co-founder and Head of AI** @ [BrianknowsAI](https://www.brianknows.org/) _(Sep 2023 - Feb 2025)_ <br>
+- Co-founded and developed Brian, an AI-powered Web3 agent enabling non-custodial transactions, smart contract deployment, and blockchain data access via prompting.
+- Won multiple hackathon awards (EthPrague, AugmentHack) and was invited to present at the decentralised EO event at ESRIN, co-organised by ESA and Swarm.
+- Secured $150K pre-seed funding and raised $100K+ in grants, with 10k DAUs.
 <br><br>
 
-**Data Analyst Intern** @ [ESA](https://bryter.io/) _(Sep 2020 - Feb 2021)_ <br>
-Main duties:
-- Analyse website data on traffic patterns, behaviour, navigation and user flows
-- Answer key questions through statistical analyses, reporting and dashboards using analytics toolset
-- Share data views to enable responsible staff to optimize decision making
-- Analyse internet trends to identify future technology needs and internet patterns
-- Identify methodologies and technologies for data and content linking
-- Advise on Search Engine Optimisation and best practice using the Search Engine Console tool
-- Assist in the review of the ESA Earth Observation Web Development Guidelines
- 
-
-## 🗞 Other Expreriences
-
-**LLM Engineer - Founder** @ [BrianknowsAI](https://www.brianknows.org/) _(Present)_ <br>
-- Brian App offers a user interface for performing transactions in a non-custodial way, researching web3 info,
-and deploying smart contracts by prompting. EthPrague2023: Brian was awarded five bounties from Aave,
-Gnosis, GraphProtocol and Taiko. AugmentHack: Brian was awarded the first prize from HuggingFace,
-Augment Hack and Bacalhau. EthBarcelona: As responsible for the AI development in Brian, I was invited as a
-speaker at the blockchain conference to talk about the AI and Web3 intersection.
-- Stats: Pre-seed round of 150K for 5mln evaluation from Gagra Venture. More than 1M collected prompts, 2k
-active users per day and > $ 700K of volume transacted using the Brian APIs.
+**Young Graduate Trainee in Software Engineering** @ [ESA](https://www.esa.int/) _(Sep 2021 - Sep 2022)_ <br>
+- Contributed to the optimisation of data access flows within ESA's EO Common Services, focusing on improving end-user experience.
+- Worked on meta-systems to enhance software architecture, with additional research supporting ESA's green computing objectives.
+- Participated in the Living Planet Symposium 2022 as part of ESA's EO outreach and technical engagement efforts.
 <br><br>
 
-**Contributing Writer** @ [Toward Data Science](https://towardsdatascience.com/) _(Present)_ <br>
-Online publications that provides insights into machine learning and deep learning solutions.
-  - **_Selected articles:_**
+**Deep Learning Research Intern** @ [INRIA](https://www.inria.fr/fr) _(March 2021 - July 2021)_ <br>
+Conducted research on neural network compression through iterative pruning techniques, complementing thesis work on efficient deep learning. Implemented and evaluated pruning strategies using the [Julia](https://julialang.org/) programming language, focusing on reducing model complexity while preserving performance for resource-constrained environments.
+Supervised by [Emanuele Natale](https://www-sop.inria.fr/members/Emanuele.Natale/) and [Andrea Clementi](http://www.mat.uniroma2.it/~clementi/).
+- **_Technologies used:_** Julia, Flux.
+<br><br>
+
+**Web Analytics and Information Outreach Intern** @ [ESA](https://www.esa.int/) _(Sep 2020 - March 2021)_ <br>
+- Gained hands-on experience in web data analysis by integrating analytics tools (e.g. Matomo) with custom scripts to support data-driven decision-making.
+- Applied semantic web technologies such as DBpedia and Schema.org for effective data and content linking.
+- Contributed to improving digital insights and strategy within ESA's web platforms.
+<br><br>
+
+## 🗞 Other Experiences
+
+**Contributing Writer** @ [Towards Data Science](https://towardsdatascience.com/) / [Medium](https://medium.com/) / [Red Hot Cyber](https://www.redhotcyber.com/) <br>
+Online publications providing insights into machine learning, deep learning and AI security.
+- **_Selected articles:_**
     - [Linear Regression and Gradient Descent Using Only Numpy](https://towardsdatascience.com/linear-regression-and-gradient-descent-using-only-numpy-53104a834f75)
     - [Transfer Learning for Robust Image Classification](https://towardsdatascience.com/transfer-learning-data-augmentation-for-robust-image-classification-643ca88b3175)
     - [Iterative Pruning Methods for Artificial Neural Networks in Julia](https://towardsdatascience.com/iterative-pruning-methods-for-artificial-neural-networks-in-julia-c605f547a485)
-    - [Remaking the “Silicon Valley” SeeFood App](https://towardsdatascience.com/the-remaking-of-the-silicon-valleys-series-seefood-app-d309068cae6d)
+    - [Remaking the "Silicon Valley" SeeFood App](https://towardsdatascience.com/the-remaking-of-the-silicon-valleys-series-seefood-app-d309068cae6d)
 <br><br>
 
-**Member** @ [Space Generation Advisory Council](https://spacegeneration.org/) _(July 2022 - Present)_ <br>
+**Hackathon Organiser - "Mission Control TTX" (1st edition)** @ [Space Generation Advisory Council (SGAC)](https://spacegeneration.org/) _(April 2023 - Present)_ <br>
 The Space Generation Advisory Council is a global non-governmental, non-profit (US 501(c)3) organisation and network which aims to represent university students and young space professionals to the United Nations, space agencies, industry, and academia.
+<br><br>
 
 **Dock3 - The Startup Lab** @ [Dock3](https://www.dock3.it/en/home_en/) _(Mar 2021 - Jun 2021)_ <br>
-Dock3Sprint is the incubation program of RomaTre University, where the teams go from idea to market.
-Each team go through 15 workshops to explore the main themes for the development of a startup: fundraising, growth hacking, lean metrics, lean management, legals, hardware production and much more.
-The co-working space is continually visited by mentors, industry experts, entrepreneurs and startup founder, who can monitor and support the development of the startups.- Website co-creator
-  <br><br>
-  
+Dock3Sprint is the incubation program of RomaTre University, where the teams go from idea to market through 15 workshops covering fundraising, growth hacking, lean metrics, lean management, legals, hardware production and more.
+<br><br>
+
 **Hackathon 2019 - Organizer** @ [Tor Vergata](http://web.uniroma2.it/) _(Feb 2019 - May 2019)_ <br>
 - Website co-creator
 - Logistic
 - Development of competition themes
-  <br><br>
-  
-**Hackathon 2019 - Organizer** @ [Tor Vergata](http://web.uniroma2.it/) _(Feb 2019 - May 2019)_ <br>
-- Website co-creator
-- Logistic
-- Development of competition themes
-  <br><br>
-  
+<br><br>
+
 ## 🏆 Accomplishments
 
-**Best System Award** @ [EVALITA 2020](https://www.evalita.it/evalita-2020/best-system-award/)  <br>
-Development of a stance detector system for Italian tweets exploiting using BERT with a transfer learning approach. You can read the paper [here](http://ceur-ws.org/Vol-2765/paper99.pdf).
+**Machine Learning DevOps Engineer** @ Udacity Nanodegree _(April 2024)_
+
+**Best System Award** @ [EVALITA 2020](https://www.evalita.it/evalita-2020/best-system-award/) <br>
+Development of a stance detector system for Italian tweets exploiting BERT with a transfer learning approach. Paper available [here](http://ceur-ws.org/Vol-2765/paper99.pdf).
 
 **Hackathon winner** @ [ConfCooperative Hackathon](https://www.confcooperative.it/) _(Nov 2019)_ <br>
-The github [repo](https://github.com/March-08/ConfCooperative---Cooperazione-Salute-Hackathon-2019) of the project.
-Health Cooperation application that allows user identification by eliminating paperwork, a review system of affiliated facilities and user profiling using data in order to seek solutions to provide tailored services.
+The github [repo](https://github.com/March-08/ConfCooperative---Cooperazione-Salute-Hackathon-2019) of the project. Health Cooperation application that allows user identification by eliminating paperwork, a review system of affiliated facilities and user profiling using data in order to seek solutions to provide tailored services.
 <br><br>
+
+## 🛠 Skills
+
+**Programming:** Git, GitHub; Python, JavaScript, OOP; My/NoSQL, VectorDB; PyTorch, TensorFlow, Axolotl, Unsloth, HF, Langchain; MLflow, W&B; AI Agents, MCP, a2a
+
+**Project Management:** Asana, Notion, Gantt Charts; Agile, Scrum; Microsoft 365, Google Workspace; Risk management; Financial Management
+
+**Soft Skills:** Team worker; Adaptability; Fast learner; Social intelligence; Story telling; Presentation skills
 
 ## 💬 Languages
 
 **Italian**: Native <br>
-**English**: C1 <br>
-**Hungarian**: B2
+**English**: Proficient user (C1) <br>
+**Hungarian**: Proficient user (B2)
 <br><br>
 
 ## 👩🏼‍🎓 Education
 
-**Pi School - School of AI**, School of Artificial Intelligence<br>
-[Pi School](https://picampus-school.com/programme/school-of-ai/) - Rome, Italy _(May 2022)_ <br>
+**Fellow at the School of Artificial Intelligence** <br>
+[Pi School](https://picampus-school.com/programme/school-of-ai/) - Rome, Italy _(May 2022)_
 
-**Deep Learning Advanced Master**, Deep Learning Italia<br>
-[Deep Learning Italia Academy - Experis Academy](https://www.experisacademy.it/it/master-it/master-deep-learning) - Rome, Italy _(Present)_ <br>
+**Advanced Deep Learning** <br>
+[Deep Learning Italia Academy / Experis Academy](https://www.experisacademy.it/it/master-it/master-deep-learning) - Rome, Italy _(April 2022)_
 
-**Master in Computer Science**, University of Tor Vergata, Rome Italy <br>
-Thesis : "An Assessment of Iterative Pruning Methods for Artificial Neural Networks in Julia"
+**Master in Computer Science** - University of Tor Vergata, Rome, Italy _(July 2021)_ <br>
+_Summa cum laude_ <br>
+Thesis: "An Assessment of Iterative Pruning Methods for Artificial Neural Networks in Julia"
+- Advisor: Prof. [Andrea Clementi](http://www.mat.uniroma2.it/~clementi/)
+- Co-Advisor: Prof. [Emanuele Natale](https://www-sop.inria.fr/members/Emanuele.Natale/)
 
-Advisor: Prof. [Andrea Clementi](http://www.mat.uniroma2.it/~clementi/)
- 
-Co-Advisor: Prof. [Emanuele Natale](https://www-sop.inria.fr/members/Emanuele.Natale/)
-
-**Beachelor in Computer Science** , University of Tor Vergata, Rome Italy<br>
+**Bachelor in Computer Science** - University of Tor Vergata, Rome, Italy <br>
 Thesis: "Dynamic of Bitcoin Network: empirical analysis of a full-node's neighborhood"
- 
-Advisor: Prof. [Francesco Pasquale](http://www.mat.uniroma2.it/~pasquale/)
- 
-Available [here](https://github.com/March-08/Thesis)
+- Advisor: Prof. [Francesco Pasquale](http://www.mat.uniroma2.it/~pasquale/)
+- Available [here](https://github.com/March-08/Thesis)
